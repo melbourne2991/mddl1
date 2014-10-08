@@ -2,3 +2,19 @@
 	border: 0;
 	border-radius: 0;
 }
+
+.block_action {
+	display: none;
+}
+
+.block .content {
+
+}
+
+.block_tree .tree_item p {
+	padding-left: 0;
+}
+
+.block_tree .tree_item p img {
+	display: none;
+}
